@@ -1,19 +1,19 @@
 # SMP
 
 
-##One Page Spec:
+## One Page Spec:
 
-###Problem Statement
+### Problem Statement
 
-###Evidence or User Insight
+### Evidence or User Insight
 
-###Proposal
+### Proposal
 
-###Goals
+### Goals
 
-###Non-goals
+### Non-goals
 
-###User Experience 
+### User Experience 
 
-###Usage Metrics
+### Usage Metrics
 
